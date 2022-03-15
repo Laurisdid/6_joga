@@ -4,7 +4,7 @@ _Website project_
 
 This project was created for learning purpuses.
 
-Site published at: 
+Site published at: https://laurisdid.github.io/6_joga/
 
 Design: https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png
 
